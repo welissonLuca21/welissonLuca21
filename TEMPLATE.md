@@ -1,7 +1,7 @@
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/WelissonLuca?style=social)
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=WelissonLuca.WelissonLuca&color=00cf00) [![Years Badge](https://badges.pufler.dev/years/welissonLuca)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/welissonLuca)](https://badges.pufler.dev)
+![GitHub followers](https://img.shields.io/github/followers/welissonLuca21?style=social)
+[![Years Badge](https://badges.pufler.dev/years/welissonLuca21)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/welissonLuca21)](https://badges.pufler.dev)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Welisson%20Luca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/welissonLuca/)](https://www.linkedin.com/in/welisson-luca-assun%C3%A7%C3%A2o-vilar-483697189/) [![Gmail Badge](https://img.shields.io/badge/-welissonluca17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:welissonluca17@gmail.com)](mailto:welissonluca17@gmail.com)
 
@@ -46,10 +46,10 @@ I'm Welisson Luca, back-end developer jr, passionate about anime, I like challen
  </div>
  
  <div  align="center">
- <a href="https://github.com/WelissonLuca"></a>
-     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WelissonLuca&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> &nbsp;
-     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=WelissonLuca&hide_border=true&theme=nightowl&show_icons=true"/>
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelissonLuca&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true">
+ <a href="https://github.com/welissonLuca21"></a>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=welissonLuca21&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> &nbsp;
+     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=welissonLuca21&hide_border=true&theme=nightowl&show_icons=true"/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welissonLuca21&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true">
 </div>
  
   <br><br>
@@ -65,7 +65,7 @@ I'm Welisson Luca, back-end developer jr, passionate about anime, I like challen
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
 
-![Metrics](https://metrics.lecoq.io/WelissonLuca?template=classic&followup=1&followup.sections=repositories&config.timezone=America%2FBelem)
+![Metrics](https://metrics.lecoq.io/welissonLuca21?template=classic&followup=1&followup.sections=repositories&config.timezone=America%2FBelem)
 
 </details>
 

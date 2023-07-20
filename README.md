@@ -58,12 +58,14 @@ I'm Welisson Luca, back-end developer jr, passionate about anime, I like challen
 #### Top
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 13 | [welissonLuca21/welissonLuca21](https://github.com/welissonLuca21/welissonLuca21) | Readme criado para meu perfil |
-| 📦 | 7 | [welissonLuca21/afrodev-team3](https://github.com/welissonLuca21/afrodev-team3) | Repositório para o AfroDev - Time 3 |
+| 📦 | 0 | [welissonLuca21/clean-arch-claro-challenge](https://github.com/welissonLuca21/clean-arch-claro-challenge) | null |
+| 📦 | 0 | [welissonLuca21/school_api](https://github.com/welissonLuca21/school_api) | null |
 
 ### :zap: Recent Activity
 
-
+* ⬆️ Pushed 1 commit to welissonLuca21/welissonLuca21
+* ⬆️ Pushed 1 commit to welissonLuca21/welissonLuca21
+* ⬆️ Pushed 1000 commits to welissonLuca21/welissonLuca21
 
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
@@ -73,7 +75,7 @@ I'm Welisson Luca, back-end developer jr, passionate about anime, I like challen
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Monday, June 19th 2023, 5:08:33 pm UTC</b>. </p>
+<p align="center">Last refresh: <b>Thursday, July 20th 2023, 3:11:44 pm UTC</b>. </p>
  
  
 
